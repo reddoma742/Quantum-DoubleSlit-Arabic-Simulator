@@ -1,3 +1,6 @@
+![Berramdane Model Result](images/result_V11.1.png)
+
+
 # Quantum-DoubleSlit-Arabic-Simulator
 محاكاة تفاعلية عربية لتجربة الشق المزدوج الكمي (إلكترون / فوتون أحادي / ضوء أبيض ملون) مع مبدأ التكاملية، التحقق العلمي بتجربة يونغ 1961، وواجهة تعليمية فريدة. Interactive Arabic simulation of quantum double-slit (electron / monochromatic / white light RGB) with complementarity principle, Jönsson 1961 validation, and educational interface.
 # نموذج بالرمضان V11.1 – محاكاة الشق المزدوج الكمي بالعربية
